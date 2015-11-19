@@ -1,0 +1,19 @@
+{
+  "name": "2snmp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "commonjs": "^0.0.1",
+    "requirejs": "^2.1.21",
+    "snmp-native": "^1.0.18"
+  },
+  "devDependencies": {
+    "requirejs": "^2.1.21"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
